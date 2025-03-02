@@ -1,4 +1,4 @@
-## Smooth Stone 🪨✨
+# Smooth Stone 🪨✨
 
 🌟 Welcome to **Smooth Stone**! 🌟
 
