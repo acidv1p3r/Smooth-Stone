@@ -8,7 +8,7 @@ Smooth Stone is a performance-focused and visually enhanced modpack designed to 
 
 ### Why Choose Smooth Stone?
 
-🪨 Smooth Stone isn’t just another modpack—it’s a carefully crafted experience that optimizes performance while keeping Minecraft’s authentic look and feel.
+🪨 Smooth Stone isn't just another modpack—it's a carefully crafted experience that optimizes performance while keeping Minecraft's authentic look and feel.
 
 ✅ **Enhanced Performance** – Say goodbye to lag and stuttering with optimizations that improve frame rates and responsiveness.
 
@@ -44,8 +44,7 @@ Optimize your game and enjoy smoother gameplay with these performance-enhancing 
 Bring your world to life with stunning visuals and immersive effects:  
 - **[Iris (Shaders)](https://modrinth.com/mod/iris)** – Adds shader support for breathtaking graphics.  
 - **[Enhanced Block Entities](https://modrinth.com/mod/ebe)** – Improves the rendering of block entities like chests and signs.  
-- **[Visuality](https://modrinth.com/mod/visuality)** – Adds small visual details like particles and animations.  
-- **[Falling Leaves](https://modrinth.com/mod/fallingleaves)** – Creates a serene atmosphere with falling leaves around trees.  
+- **[Visuality](https://modrinth.com/mod/visuality)** – Adds small visual details like particles and animations. 
 
 ---
 
@@ -56,6 +55,7 @@ Make your gameplay more convenient and enjoyable with these handy mods:
 - **[CraftPresence](https://modrinth.com/mod/craftpresence)** – Integrates Minecraft with Discord to show your activity.  
 - **[No Chat Reports](https://modrinth.com/mod/no-chat-reports)** – Keeps your chat private and secure.  
 - **[Dynamic FPS](https://modrinth.com/mod/dynamic-fps)** – Reduces FPS when Minecraft is in the background to save resources.  
+- **[Typewriter Day Counter](https://modrinth.com/mod/typewriter-day-counter)** – Adds an elegant day counter to track your survival progress.  
 
 ---
 
@@ -68,7 +68,7 @@ Fine-tune your game with these optimization mods:
 
 ---
 
-### **Utilities** 🧰  
+### **Utilities**🧰   
 Essential tools to enhance your Minecraft experience:  
 - **[Resourcify](https://modrinth.com/mod/resourcify)** – Simplifies resource pack management.  
 - **[Info Tools](https://modrinth.com/datapack/info-tools)** – Provides useful in-game information and tools.  
